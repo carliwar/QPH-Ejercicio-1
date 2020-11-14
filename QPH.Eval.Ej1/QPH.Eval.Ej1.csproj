@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QPH.Eval.Ej1.Business\QPH.Eval.Ej1.Business.csproj" />
+    <ProjectReference Include="..\QPH.Eval.Ej1.Core\QPH.Eval.Ej1.Core.csproj" />
+    <ProjectReference Include="..\QPH.Eval.Ej1.Repository\QPH.Eval.Ej1.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
